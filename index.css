@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0px;
+  padding: 0px;}
+header {
+	background-image: url(photo-1447933601403-0c6688de566e.jpg);
+	padding: 30px;
+	color:aqua;
+	font-size: 20px;
+}
+#menu li{list-style-type: none;
+         display:inline;
+	     padding-left:190px;
+	     background-color:lightpink;
+	     color:saddlebrown;
+	     padding-bottom:5px;
+}
+#menu li:hover{color:lightpink;
+                 background-color:saddlebrown;}
+h2 {color:mediumpurple;
+    font-size:30px;
+    padding:30px;}
+
